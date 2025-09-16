@@ -1,4 +1,4 @@
-## Hi I'm Emmanuel Tembo 👋
+## Hi, I'm Emmanuel Tembo 👋
 
 🌱 Junior Website Developer.<br>
 👨‍🎓 Studied [Life Choices Acedemy](https://lifechoicesacademy.com/).<br/>
