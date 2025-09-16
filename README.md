@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Emmanuel Tembo 👋
 
+🌱 Junior Website Developer.<br>
+👨‍🎓 Studied [Life Choices Acedemy](https://lifechoicesacademy.com/).<br/>
+💬 Currently Polishing my Developer Skills.
 <!--
 **Emmanuel-Tembo/Emmanuel-Tembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
