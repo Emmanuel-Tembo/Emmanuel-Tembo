@@ -1,6 +1,6 @@
 ## Hi, I'm Emmanuel Tembo 💫
 
-🌱 Junior Website Developer<br>
+🌱 Junior Software Developer<br>
 👨‍🎓 Studied at [Life Choices Acedemy](https://lifechoicesacademy.com/).<br/>
 💬 Passionate about learning and solving complex challenges. I'm actively seeking internship or collaboration opportunities to grow my skills and build amazing projects.
 
